@@ -1,0 +1,130 @@
+html, body {
+	background-color: #f2f2f2;
+}
+
+a {
+	color: #aaa;
+	font-family: "DM Sans";
+	font-weight:  700;
+	text-decoration: none;
+	padding-bottom:  5px;
+	border-bottom: 2px solid #aaa;
+}
+
+h1 {
+	font-family: "Domine";
+	font-size: 24px;
+}
+
+h2 {
+	font-family: "Domine";
+	font-size: 18px;
+}
+
+h3 {
+	font-family: "Domine";
+	font-size: 16px;
+	padding: 0px;
+	margin: 0px;
+	margin-bottom:  30px;
+}
+
+h4 {
+	font-family: "Domine";
+	font-size: 14px;
+	padding:  0px;
+	margin:  0px;
+}
+
+p {
+	font-family:  "Tinos";
+	font-weight: 400;
+	color: #444;
+}
+
+#logo {
+	margin:  auto;
+	width:  1500px;
+	height:  100px;
+	line-height: 80px;
+	font-family: "Cormorant";
+	text-align: center;
+	font-size: 28px;
+	border-bottom: 1.5px solid #ddd;
+	margin-bottom: 50px;
+}
+
+#outer-frame{
+	margin:  auto;
+	width: 1500px;
+	height:  500px;
+	border-bottom:  1.5px solid #ddd;
+	padding-bottom:  50px;
+}
+
+#left-header {
+	width: 448px;
+	height:  500px;
+	float: left;
+	padding-right: 50px;
+	border-right:  1.5px solid #ddd;
+}
+
+#middle-list {
+	height:  500px;
+	width:  398px;
+	float: left;
+	padding-left:  50px;
+	padding-right:  50px;
+	border-right:  1.5px solid #ddd;
+}
+
+#right-list {
+	width:  450px;
+	height:  500px;
+	float: left;
+	padding-left:  50px;
+}
+
+.category {
+	background-color:  black;
+	font-family:  "DM Sans";
+	padding: 8px 10px 8px 10px;
+	letter-spacing: 1px;
+	font-weight: 700;
+	color:  white;
+	font-size:  14px;
+}
+
+.date {
+	font-family:  "DM Sans";
+	padding: 8px 10px 8px 10px;
+	letter-spacing: 1px;
+	font-weight: 700;
+	color:  black;
+	font-size:  14px;
+}
+
+.middle-news {
+	margin-bottom:  50px;
+}
+
+.right-news {
+	height: 100px;
+	background-color: white;
+	padding:  20px 20px 7px 20px;
+	border-radius: 5px;
+	box-shadow: 2px 2px 10px 1px #ddd;
+	margin-bottom:  20px;
+}
+
+.title-text {
+	width:  260px;
+	float: left;
+}
+
+.image {
+	width: 150px;
+	float: left;
+}
+
